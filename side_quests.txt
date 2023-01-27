@@ -1,0 +1,20 @@
+- How to rename several files like y2mate
+- descriptive gui with a folder in which to the files to rename are
+- patterns like; files with a certain extension, adding a prefix/suffix to 
+
+- App that goes through my notes and displays a point in each note everyday like bible verses
+- folder of notes text files
+- runs through each file looking for a pin and add that line/paragraph (until a blank line) to a collection
+- picks a random line from the collection and displays it
+
+- Algorithm that goes through videos say twitter and looks for ones including a particular person
+
+- App where you can download many songs at once like ninite
+
+- Web interactive map to track towns along the road i've been to (folium)
+
+- Youtube playlist/video download (how to develop one)
+
+SUCCESS:
+- renamed copies of cit python exam prep
+- renamed screenshots of AWS CLF C01 test
